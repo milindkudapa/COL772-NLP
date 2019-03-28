@@ -1,0 +1,7 @@
+There are the sources that I've used:
+
+https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
+https://datascience.stackexchange.com/questions/10695/how-to-initialize-a-new-word2vec-model-with-pre-trained-model-weights
+https://stackoverflow.com/questions/46013294/gensim-doc2vec-intersect-word2vec-format-command
+https://www.pydoc.io/pypi/gensim-3.2.0/autoapi/models/word2vec/index.html
+https://stackoverflow.com/questions/35596031/gensim-word2vec-find-number-of-words-in-vocabulary
